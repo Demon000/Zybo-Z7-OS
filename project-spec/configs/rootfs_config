@@ -3892,7 +3892,7 @@ CONFIG_bridge-utils=y
 #
 # packagegroup-petalinux-matchbox 
 #
-# CONFIG_packagegroup-petalinux-matchbox is not set
+CONFIG_packagegroup-petalinux-matchbox=y
 # CONFIG_packagegroup-petalinux-matchbox-dbg is not set
 # CONFIG_packagegroup-petalinux-matchbox-dev is not set
 
@@ -3977,7 +3977,7 @@ CONFIG_bridge-utils=y
 #
 # packagegroup-petalinux-x11 
 #
-# CONFIG_packagegroup-petalinux-x11 is not set
+CONFIG_packagegroup-petalinux-x11=y
 # CONFIG_packagegroup-petalinux-x11-dbg is not set
 # CONFIG_packagegroup-petalinux-x11-dev is not set
 
